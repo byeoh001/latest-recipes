@@ -1,0 +1,25 @@
+*{
+    
+    box-sizing:border-box;
+    
+}
+
+.intro{
+    margin-left: 300px;
+    display: inline;
+    border: 5px solid red;
+    margin-top:0;
+    margin-bottom:0;
+
+    
+}
+
+
+.lasagimg,
+.cakeimg,
+.yoghurtimg{
+    margin-left:30px;
+   
+}
+
+
